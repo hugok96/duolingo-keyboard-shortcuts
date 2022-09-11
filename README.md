@@ -8,3 +8,4 @@ After reloading or navigating to duolingo.com you should be able to use the foll
  - CTRL + ALT + NUMPAD_1: Replay the sound prompt
  - CTRL + ALT + NUMPAD_2: Replay the slow sound prompt
  - CTRL + ALT + NUMPAD_3: Enable the microphone prompt
+ - SHIFT twice: Opens a search bar for quick translations
